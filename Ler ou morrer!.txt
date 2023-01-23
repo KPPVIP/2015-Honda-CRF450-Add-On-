@@ -1,0 +1,35 @@
+2015 Honda CRF450 by RkrdM [Add-On]
+
+3d Model for MX Sim by T-RIDER: Honda Model
+	    	       J4KAW: Cycra Honda
+Convert to GTA V by RkrdM 
+
+Blog: https://modsrkrdm.blogspot.com
+Facebook2: https://www.facebook.com/ModsGrandTheftAutoV
+Youtube: https://www.youtube.com/user/GTAModsSA
+
+Tutoriais: https://www.youtube.com/playlist?list=PLahog7jkmn2YJZteH0R6F8_YQnH-A_Qj6
+
+=================================================================================================
+
+-------HOW TO INSTALL------- 
+
+1 - Copy update folder to 
+X:\Grand Theft Auto V\ 
+
+----------------------------
+
+2 - Use OpenIV extract 
+X:\Grand Theft Auto V\update\update.rpf\common\data\dlclist.xml
+then use notepad open it,add new line. 
+
+   <Item>dlcpacks:/2015crf450/</Item>
+
+Save it and use OpenIV replace it.
+
+----------------------------
+
+3 - You can use Simple Trainer Spawn it by name. 
+
+    2015crf450
+
